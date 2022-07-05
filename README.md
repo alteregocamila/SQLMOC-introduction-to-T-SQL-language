@@ -12,6 +12,6 @@ The following subjects were addressed:
 - Manipulating data
 - Create and manage tables
 
-- <a href="https://1drv.ms/b/s!Alc8XZE0_c49kwWACiKhEeTfEkHn?e=JYNJay">**SCRIPTS**</a>
+- <a href="https://github.com/alteregocamila/SQLMOC-introduction-to-T-SQL-language/blob/main/scripts.sql">**SCRIPTS**</a>
 
-- <a href="https://1drv.ms/b/s!Alc8XZE0_c49kwa43x33jqcZwxX7?e=GbSkk9">**Challenges**</a>
+- <a href="https://github.com/alteregocamila/SQLMOC-introduction-to-T-SQL-language/blob/main/challenges.sql">**Challenges**</a>
